@@ -1,3 +1,3 @@
-Add your name to the team info page!
+## Team D:
 
-At the end of the semester update this README with information on how to run your project. 
+- Xavier Thomas, xthomas@bu.edu, XThomasBU, Class of 2025
