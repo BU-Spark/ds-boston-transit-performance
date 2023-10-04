@@ -3,3 +3,4 @@
 - Xavier Thomas, xthomas@bu.edu, XThomasBU, Class of 2025
 - Rishven K Pravin, rishven@bu.edu, rishven, Class of 2025
 - James Xiao, jamxiao@bu.edu, jamxiao2025, Class of 2025
+- Ketan Suhaas Saichandran, ketanss@bu.edu, KetanAI, Class of 2025
