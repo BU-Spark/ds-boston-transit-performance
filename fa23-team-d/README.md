@@ -1,3 +1,7 @@
-Add your name to the team info page!
+## Team D:
 
-At the end of the semester update this README with information on how to run your project. 
+- Xavier Thomas, xthomas@bu.edu, XThomasBU, Class of 2025
+- Rishven K Pravin, rishven@bu.edu, rishven, Class of 2025
+- James Xiao, jamxiao@bu.edu, jamxiao2025, Class of 2025
+- Ketan Suhaas Saichandran, ketanss@bu.edu, KetanAI, Class of 2025
+- Haoxiang Huo, stevehuo@bu.edu, ioshuoyuhao, Class of 2024
