@@ -1,0 +1,221 @@
+row_id,route_id,route_short_name,route_long_name,route_desc
+0,Red,,Red Line,Rapid Transit
+1,Mattapan,,Mattapan Trolley,Rapid Transit
+2,Orange,,Orange Line,Rapid Transit
+3,Green-B,B,Green Line B,Rapid Transit
+4,Green-C,C,Green Line C,Rapid Transit
+5,Green-D,D,Green Line D,Rapid Transit
+6,Green-E,E,Green Line E,Rapid Transit
+7,Blue,,Blue Line,Rapid Transit
+8,741,SL1,Logan Airport Terminals - South Station,Key Bus
+9,742,SL2,Drydock Avenue - South Station,Key Bus
+10,743,SL3,Chelsea Station - South Station,Key Bus
+11,751,SL4,Nubian Station - South Station,Key Bus
+12,749,SL5,Nubian Station - Temple Place,Key Bus
+13,746,SLW,Silver Line Way - South Station,Key Bus
+14,CR-Fairmount,,Fairmount Line,Commuter Rail
+15,CR-Fitchburg,,Fitchburg Line,Commuter Rail
+16,CR-Worcester,,Framingham/Worcester Line,Commuter Rail
+17,CR-Franklin,,Franklin/Foxboro Line,Commuter Rail
+18,CR-Greenbush,,Greenbush Line,Commuter Rail
+19,CR-Haverhill,,Haverhill Line,Commuter Rail
+20,CR-Kingston,,Kingston Line,Commuter Rail
+21,CR-Lowell,,Lowell Line,Commuter Rail
+22,CR-Middleborough,,Middleborough/Lakeville Line,Commuter Rail
+23,CR-Needham,,Needham Line,Commuter Rail
+24,CR-Newburyport,,Newburyport/Rockport Line,Commuter Rail
+25,CR-Providence,,Providence/Stoughton Line,Commuter Rail
+26,CR-Foxboro,,Foxboro Event Service,Commuter Rail
+27,CapeFlyer,,CapeFLYER,Commuter Rail
+28,Boat-F4,,Charlestown Ferry,Ferry
+29,Boat-F1,,Hingham/Hull Ferry,Ferry
+30,Boat-EastBoston,,East Boston Ferry,Ferry
+31,Boat-Lynn,,Lynn Ferry,Ferry
+32,Boat-F6,,Winthrop Ferry,Ferry
+33,747,CT2,Sullivan Square Station - Ruggles Station,Local Bus
+34,708,CT3,Beth Israel Deaconess Hospital - Andrew Station,Local Bus
+35,1,1,Harvard Square - Nubian Station,Key Bus
+36,4,4,North Station - Tide Street,Commuter Bus
+37,7,7,City Point - Otis Street & Summer Street,Local Bus
+38,8,8,Harbor Point - Kenmore Station,Local Bus
+39,9,9,City Point - Copley Square,Local Bus
+40,10,10,City Point - Copley Square,Local Bus
+41,11,11,City Point - Chauncy Street & Summer Street,Local Bus
+42,14,14,Roslindale Square - Heath Street,Local Bus
+43,15,15,Fields Corner Station or Kane Square - Ruggles Station,Key Bus
+44,16,16,Forest Hills Station - Andrew Station or Harbor Point,Local Bus
+45,17,17,Fields Corner Station - Andrew Station,Local Bus
+46,18,18,Ashmont Station - Andrew Station,Local Bus
+47,19,19,Fields Corner Station - Kenmore or Ruggles Station,Local Bus
+48,21,21,Ashmont Station - Forest Hills Station,Local Bus
+49,22,22,Ashmont Station - Ruggles Station via Talbot Ave,Key Bus
+50,23,23,Ashmont Station - Ruggles Station via Washington Street,Key Bus
+51,24,24,Wakefield Avenue & Truman Parkway - Ashmont Station,Local Bus
+52,26,26,Ashmont Station - Norfolk Street Loop,Local Bus
+53,28,28,Mattapan Station - Ruggles Station,Key Bus
+54,29,29,Mattapan Station - Jackson Square Station,Local Bus
+55,30,30,Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,Local Bus
+56,31,31,Mattapan Station - Forest Hills Station via Morton Street,Local Bus
+57,32,32,Wolcott or Cleary Square - Forest Hills Station,Key Bus
+58,3233,32/33,River Street & Milton Street - Mattapan Station,Supplemental Bus
+59,33,33,River Street & Milton Street - Mattapan Station,Local Bus
+60,34,34,Dedham Square - Forest Hills Station,Local Bus
+61,34E,34E,Walpole Center - Forest Hills Station,Local Bus
+62,35,35,Dedham Mall or Stimson Street - Forest Hills Station,Local Bus
+63,36,36,Millennium Park or VA Hospital - Forest Hills Station,Local Bus
+64,37,37,Baker Street & Vermont Street - Forest Hills Station,Local Bus
+65,38,38,Wren Street - Forest Hills Station,Local Bus
+66,39,39,Forest Hills Station - Back Bay Station,Key Bus
+67,40,40,Georgetowne - Forest Hills Station,Local Bus
+68,4050,40/50,Georgetowne - Forest Hills Station,Local Bus
+69,41,41,Centre Street & Eliot Street - JFK/UMass Station,Local Bus
+70,42,42,Forest Hills Station - Nubian Station,Local Bus
+71,43,43,Ruggles Station - Park Street Station,Local Bus
+72,44,44,Jackson Square Station - Ruggles Station,Local Bus
+73,45,45,Franklin Park - Ruggles Station,Local Bus
+74,47,47,"Central Square, Cambridge - Broadway Station",Local Bus
+75,50,50,Cleary Square - Forest Hills Station,Local Bus
+76,51,51,Reservoir Station - Forest Hills Station,Local Bus
+77,52,52,Dedham Mall - Watertown Yard,Local Bus
+78,55,55,Fenway - Copley Square,Local Bus
+79,57,57,Watertown Yard - Kenmore Station,Key Bus
+80,59,59,Needham Junction - Watertown Square,Local Bus
+81,60,60,Chestnut Hill - Kenmore Station,Local Bus
+82,61,61,North Waltham - Waltham Center,Local Bus
+83,62,62,Bedford VA Hospital - Alewife Station,Local Bus
+84,627,62/76,Bedford VA Hospital - Alewife Station via Hanscom Airport,Local Bus
+85,64,64,Oak Square - University Park or Kendall/MIT Station,Local Bus
+86,65,65,Brighton Center - Kenmore Station,Local Bus
+87,66,66,Harvard Square - Nubian Station,Key Bus
+88,67,67,Turkey Hill - Alewife Station,Local Bus
+89,68,68,Harvard Square - Kendall/MIT Station,Local Bus
+90,69,69,Harvard Square - Lechmere Station,Local Bus
+91,70,70,Market Place Drive or Waltham Center - University Park,Local Bus
+92,71,71,Watertown Square - Harvard Station,Key Bus
+93,73,73,Waverley Square - Harvard Station,Key Bus
+94,74,74,Belmont Center - Harvard via Concord Avenue,Local Bus
+95,75,75,Belmont Center - Harvard via Huron Avenue,Local Bus
+96,76,76,Lincoln Lab - Alewife Station,Local Bus
+97,77,77,Arlington Heights - Harvard Station,Key Bus
+98,78,78,Arlmont Village - Harvard Station,Local Bus
+99,80,80,Arlington Center - Lechmere Station,Local Bus
+100,83,83,"Rindge Avenue - Central Square, Cambridge",Local Bus
+101,85,85,Spring Hill - Kendall/MIT Station,Local Bus
+102,86,86,Sullivan Square Station - Reservoir Station,Local Bus
+103,87,87,Clarendon Hill or Arlington Center - Lechmere Station,Local Bus
+104,88,88,Clarendon Hill - Lechmere Station,Local Bus
+105,89,89,Clarendon Hill or Davis Station - Sullivan Square Station,Local Bus
+106,8993,89/93,Clarendon Hill - Haymarket Station,Supplemental Bus
+107,90,90,Davis Station - Assembly Row,Local Bus
+108,91,91,"Sullivan Square Station - Central Square, Cambridge",Local Bus
+109,92,92,Sullivan Square Station - Downtown via Main Street,Local Bus
+110,93,93,Sullivan Square Station - Downtown via Bunker Hill Street,Local Bus
+111,94,94,Medford Square - Davis Station,Local Bus
+112,95,95,West Medford or Arlington Center - Sullivan Square Station,Local Bus
+113,96,96,Medford Square - Harvard Station,Local Bus
+114,97,97,Malden Center Station - Wellington Station,Local Bus
+115,99,99,Woodland Road - Wellington Station,Local Bus
+116,100,100,Elm Street - Wellington Station,Local Bus
+117,101,101,Malden Center Station - Sullivan Square Station via Winter Hill,Local Bus
+118,104,104,Malden Center Station - Sullivan Square Station via Ferry Street,Local Bus
+119,105,105,Malden Center Station - Sullivan Square Station via Newland Street Housing,Local Bus
+120,106,106,Lebanon Loop - Wellington Station,Local Bus
+121,108,108,Linden Square - Wellington Station,Local Bus
+122,109,109,Linden Square - Sullivan Square Station,Local Bus
+123,110,110,Wonderland Station - Wellington Station,Local Bus
+124,111,111,Woodlawn - Haymarket Station,Key Bus
+125,112,112,Wellington Station - Wood Island Station,Local Bus
+126,114,114,Market Basket - Maverick Station,Community Bus
+127,116,116,Wonderland Station - Maverick Station via Revere Street,Key Bus
+128,117,117,Wonderland Station - Maverick Station via Beach Street,Key Bus
+129,119,119,Northgate Shopping Center - Beachmont Station,Local Bus
+130,120,120,Orient Heights Station - Jeffries Point,Local Bus
+131,121,121,Wood Island Station - Maverick Station,Commuter Bus
+132,131,131,Melrose Highlands - Oak Grove or Malden Center Station,Commuter Bus
+133,132,132,Redstone Shopping Center - Malden Center Station,Local Bus
+134,134,134,North Woburn - Wellington Station,Local Bus
+135,137,137,Reading Depot - Malden Center Station,Local Bus
+136,171,171,Logan Airport Terminals - Nubian Station,Supplemental Bus
+137,195,195,Lemuel Shattuck Hospital - Park Street & Tremont Street,Supplemental Bus
+138,201,201,Fields Corner Loop via Neponset Ave,Local Bus
+139,202,202,Fields Corner Loop via Adams Street,Local Bus
+140,210,210,Quincy Center Station - Fields Corner Station,Local Bus
+141,211,211,Quincy Center Station - Squantum,Local Bus
+142,215,215,Quincy Center Station - Ashmont Station via West Quincy,Local Bus
+143,216,216,Houghs Neck - Quincy Center Station via Germantown,Local Bus
+144,217,217,Quincy Center Station - Ashmont Station via Wollaston Station,Commuter Bus
+145,220,220,Hingham Depot - Quincy Center Station,Local Bus
+146,222,222,East Weymouth - Quincy Center Station,Local Bus
+147,225,225,Weymouth Landing - Quincy Center Station,Local Bus
+148,226,226,Columbian Square - Braintree Station,Local Bus
+149,230,230,Montello Station - Quincy Center Station,Local Bus
+150,236,236,South Shore Plaza - Quincy Center Station,Local Bus
+151,238,238,Holbrook/Randolph Station - Quincy Center Station,Local Bus
+152,240,240,Avon Square - Ashmont Station,Local Bus
+153,245,245,Quincy Center Station - Mattapan Station,Local Bus
+154,350,350,North Burlington - Alewife Station,Local Bus
+155,351,351,Bedford Woods Drive - Third Avenue,Commuter Bus
+156,354,354,"North Burlington - State Street, Boston",Commuter Bus
+157,411,411,Kennedy Drive or Jack Satter House - Malden Center Station,Local Bus
+158,424,424,Eastern Avenue & Essex Street - Wonderland Station,Commuter Bus
+159,426,426,"Central Square, Lynn - Haymarket or Wonderland Station",Local Bus
+160,428,428,Oaklandvale - Haymarket Station,Commuter Bus
+161,429,429,"Northgate Shopping Center - Central Square, Lynn",Local Bus
+162,430,430,Saugus Center - Malden Center Station,Local Bus
+163,435,435,"Liberty Tree Mall - Central Square, Lynn via Peabody Square",Local Bus
+164,436,436,"Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",Local Bus
+165,439,439,Nahant - Wonderland Station,Commuter Bus
+166,441,441,Marblehead - Wonderland Station via Paradise Road,Local Bus
+167,441442,441/442,Marblehead - Wonderland Station,Local Bus
+168,442,442,Marblehead - Wonderland Station via Humphrey Street,Local Bus
+169,450,450,Salem Depot - Wonderland or Haymarket Station,Local Bus
+170,451,451,North Beverly Station - Salem Depot,Commuter Bus
+171,455,455,Salem Depot - Wonderland Station,Local Bus
+172,456,456,"Salem Depot - Central Square, Lynn",Local Bus
+173,501,501,Brighton Center - Federal Street & Franklin Street,Commuter Bus
+174,504,504,Watertown Yard - Federal Street & Franklin Street,Commuter Bus
+175,505,505,Waltham Center - Federal Street & Franklin Street,Commuter Bus
+176,553,553,Roberts - Newton Corner,Local Bus
+177,554,554,Waverley Square - Newton Corner,Local Bus
+178,556,556,Waltham Highlands - Newton Corner,Commuter Bus
+179,558,558,Riverside Station - Newton Corner,Commuter Bus
+180,712,712,Point Shirley - Orient Heights Station via Revere Street,Local Bus
+181,713,713,Point Shirley - Orient Heights Station via Winthrop Center,Local Bus
+182,714,714,"Pemberton Point, Hull - Station Street, Hingham",Local Bus
+183,716,716,Cobbs Corner - Mattapan Station,Local Bus
+184,Shuttle-AndersonWoburnReading,Haverhill Line Shuttle,Reading - Anderson/Woburn,Rail Replacement Bus
+185,Shuttle-AshlandFramingham,Worcester Line Shuttle,Ashland - Framingham,Rail Replacement Bus
+186,Shuttle-AshmontJFK,Red Line Shuttle,Ashmont - JFK/UMass,Rail Replacement Bus
+187,Shuttle-Generic,Shuttle,,Rail Replacement Bus
+188,Shuttle-Generic-Blue,Blue Line Shuttle,,Rail Replacement Bus
+189,Shuttle-Generic-CommuterRail,Commuter Rail Shuttle,,Rail Replacement Bus
+190,Shuttle-Generic-CommuterRail-North,North Side Commuter Rail Shuttle,,Rail Replacement Bus
+191,Shuttle-Generic-CommuterRail-South,South Side Commuter Rail Shuttle,,Rail Replacement Bus
+192,Shuttle-Generic-Elevator,Elevator Shuttle,,Rail Replacement Bus
+193,Shuttle-Generic-Fairmount,Fairmount Line Shuttle,,Rail Replacement Bus
+194,Shuttle-Generic-Fitchburg,Fitchburg Line Shuttle,,Rail Replacement Bus
+195,Shuttle-Generic-Franklin,Franklin/Foxboro Line Shuttle,,Rail Replacement Bus
+196,Shuttle-Generic-Green,Green Line Shuttle,,Rail Replacement Bus
+197,Shuttle-Generic-Green-B,Green Line B Shuttle,,Rail Replacement Bus
+198,Shuttle-Generic-Greenbush,Greenbush Line Shuttle,,Rail Replacement Bus
+199,Shuttle-Generic-Green-C,Green Line C Shuttle,,Rail Replacement Bus
+200,Shuttle-Generic-Green-D,Green Line D Shuttle,,Rail Replacement Bus
+201,Shuttle-Generic-Green-E,Green Line E Shuttle,,Rail Replacement Bus
+202,Shuttle-Generic-Green-Trunk,Green Line Subway Shuttle,,Rail Replacement Bus
+203,Shuttle-Generic-Haverhill,Haverhill Line Shuttle,,Rail Replacement Bus
+204,Shuttle-Generic-Kingston,Kingston Line Shuttle,,Rail Replacement Bus
+205,Shuttle-Generic-Lowell,Lowell Line Shuttle,,Rail Replacement Bus
+206,Shuttle-Generic-Mattapan,Mattapan Line Shuttle,,Rail Replacement Bus
+207,Shuttle-Generic-Middleborough,Middleborough/Lakeville Line Shuttle,,Rail Replacement Bus
+208,Shuttle-Generic-Needham,Needham Line Shuttle,,Rail Replacement Bus
+209,Shuttle-Generic-Newburyport,Newburyport/Rockport Line Shuttle,,Rail Replacement Bus
+210,Shuttle-Generic-Orange,Orange Line Shuttle,,Rail Replacement Bus
+211,Shuttle-Generic-Providence,Providence/Stoughton Line Shuttle,,Rail Replacement Bus
+212,Shuttle-Generic-Red,Red Line Shuttle,,Rail Replacement Bus
+213,Shuttle-Generic-Red-Ashmont,Red Line Ashmont Shuttle,,Rail Replacement Bus
+214,Shuttle-Generic-Red-Braintree,Red Line Braintree Shuttle,,Rail Replacement Bus
+215,Shuttle-Generic-Red-Trunk,Red Line Trunk Shuttle,,Rail Replacement Bus
+216,Shuttle-Generic-Worcester,Framingham/Worcester Line Shuttle,,Rail Replacement Bus
+217,Shuttle-JFKMattapan,Red/Mattapan Line Shuttle,Mattapan - JFK/UMass,Rail Replacement Bus
+218,Shuttle-LynnSwampscott,Newburyport/Rockport Line Shuttle,Lynn - Swampscott,Rail Replacement Bus
+219,Shuttle-OakGroveReading,Haverhill Line Shuttle,Reading - Oak Grove,Rail Replacement Bus
