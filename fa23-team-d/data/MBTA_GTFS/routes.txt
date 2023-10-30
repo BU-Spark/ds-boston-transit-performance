@@ -45,7 +45,7 @@ Boat-F6,1,,Winthrop Ferry,Ferry,4,https://www.mbta.com/schedules/Boat-F6,008EAA,
 15,1,15,Fields Corner Station or Kane Square - Ruggles Station,Key Bus,3,https://www.mbta.com/schedules/15,FFC72C,000000,50150,Local Bus,line-15,,local_bus
 16,1,16,Forest Hills Station - Andrew Station or Harbor Point,Local Bus,3,https://www.mbta.com/schedules/16,FFC72C,000000,50160,Local Bus,line-16,,local_bus
 17,1,17,Fields Corner Station - Andrew Station,Local Bus,3,https://www.mbta.com/schedules/17,FFC72C,000000,50170,Local Bus,line-1719,,local_bus
-18,1,18,Ashmont Station - Andrew Station,Local Bus,3,https://www.mbta.com/schedules/18,FFC72C,000000,50180,Free,line-18,,local_bus_free
+18,1,18,Ashmont Station - Andrew Station,Local Bus,3,https://www.mbta.com/schedules/18,FFC72C,000000,50180,Local Bus,line-18,,local_bus
 19,1,19,Fields Corner Station - Kenmore or Ruggles Station,Local Bus,3,https://www.mbta.com/schedules/19,FFC72C,000000,50190,Local Bus,line-1719,,local_bus
 21,1,21,Ashmont Station - Forest Hills Station,Local Bus,3,https://www.mbta.com/schedules/21,FFC72C,000000,50210,Local Bus,line-21,,local_bus
 22,1,22,Ashmont Station - Ruggles Station via Talbot Ave,Key Bus,3,https://www.mbta.com/schedules/22,FFC72C,000000,50220,Local Bus,line-22,,local_bus
@@ -216,6 +216,6 @@ Shuttle-Generic-Red-Ashmont,1,Red Line Ashmont Shuttle,,Rail Replacement Bus,3,,
 Shuttle-Generic-Red-Braintree,1,Red Line Braintree Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61937,Free,line-Red,1,rail_replacement_bus
 Shuttle-Generic-Red-Trunk,1,Red Line Trunk Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61938,Free,line-Red,1,rail_replacement_bus
 Shuttle-Generic-Worcester,1,Framingham/Worcester Line Shuttle,,Rail Replacement Bus,3,,FFC72C,000000,61939,Free,line-Worcester,1,rail_replacement_bus
-Shuttle-JFKMattapan,1,Red/Mattapan Line Shuttle,Mattapan - JFK/UMass,Rail Replacement Bus,3,,FFC72C,000000,61990,Free,line-Red,1,rail_replacement_bus
+Shuttle-JFKMattapan,1,Red/Mattapan Line Shuttle,Mattapan Station - JFK/UMass Station via Ashmont Station,Rail Replacement Bus,3,,FFC72C,000000,61990,Free,line-Mattapan,1,rail_replacement_bus
 Shuttle-LynnSwampscott,1,Newburyport/Rockport Line Shuttle,Lynn - Swampscott,Rail Replacement Bus,3,,FFC72C,000000,62053,Free,line-Newburyport,1,rail_replacement_bus
 Shuttle-OakGroveReading,1,Haverhill Line Shuttle,Reading - Oak Grove,Rail Replacement Bus,3,,FFC72C,000000,62170,Free,line-Haverhill,1,rail_replacement_bus

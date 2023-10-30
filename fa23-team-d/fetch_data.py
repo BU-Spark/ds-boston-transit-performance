@@ -9,7 +9,7 @@ import gzip, json, datetime, urllib, math, os
 import pandas as pd
 
 # Get the MBTA API key from the system variables:
-apikey = ''
+apikey = 'bacd751f713146e091341c228d6e0ba0'
 mainurl='https://api-v3.mbta.com/'
 data_path = 'data/MBTA_GTFS/'
 
@@ -241,6 +241,9 @@ def getalerts(route_id):
 		alert = ""
 	return alert
 
+
+temp = getvehicles()
+print(temp)
 
 #mbtaonbus
 #On-bus prediction screen prototype using MBTA API. {not affiliated with the MBTA}

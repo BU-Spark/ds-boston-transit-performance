@@ -216,6 +216,6 @@ row_id,route_id,route_short_name,route_long_name,route_desc
 214,Shuttle-Generic-Red-Braintree,Red Line Braintree Shuttle,,Rail Replacement Bus
 215,Shuttle-Generic-Red-Trunk,Red Line Trunk Shuttle,,Rail Replacement Bus
 216,Shuttle-Generic-Worcester,Framingham/Worcester Line Shuttle,,Rail Replacement Bus
-217,Shuttle-JFKMattapan,Red/Mattapan Line Shuttle,Mattapan - JFK/UMass,Rail Replacement Bus
+217,Shuttle-JFKMattapan,Red/Mattapan Line Shuttle,Mattapan Station - JFK/UMass Station via Ashmont Station,Rail Replacement Bus
 218,Shuttle-LynnSwampscott,Newburyport/Rockport Line Shuttle,Lynn - Swampscott,Rail Replacement Bus
 219,Shuttle-OakGroveReading,Haverhill Line Shuttle,Reading - Oak Grove,Rail Replacement Bus
