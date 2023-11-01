@@ -1,0 +1,74 @@
+（details could be checked in the csv files we generated in deliverable 1 folder)
+End-to-End Travel Times for Different Bus Routes
+Longest Average Travel Time:
+
+Route: 435 (Inbound)
+Average Travel Time: Approximately 1 hour, 6 minutes, and 45 seconds
+Shortest Average Travel Time:
+
+Route: 121 (Outbound)
+Average Travel Time: Approximately 8 minutes and 24 seconds
+Overall Insights:
+
+The mean travel time across all routes is approximately 29 minutes and 51 seconds.
+The median travel time across all routes is approximately 28 minutes and 18 seconds, indicating that half of the routes have travel times less than this value and half have more.
+Comparing directions, the average travel time for inbound routes is approximately 29 minutes and 47 seconds, while for outbound routes, it's approximately 29 minutes and 55 seconds. The difference between inbound and outbound average times is minimal, suggesting a balanced travel time in both directions across routes.
+
+Disparities in Service Levels of Different Routes
+Prediction Accuracy:
+Overall Insights:
+The mean prediction accuracy across all routes is approximately 83.17%.
+The median prediction accuracy is approximately 82.78%, suggesting that half of the routes have prediction accuracies below this value and half have above.
+Routes with Consistently High Prediction Accuracy:
+Interestingly, no specific routes consistently exhibited a prediction accuracy above 90% based on the provided dataset.
+Routes with Consistently Low Prediction Accuracy:
+Similarly, no specific routes consistently showed a prediction accuracy below 80% based on the dataset.
+Reliability:
+Overall Insights:
+The mean reliability score across all routes is approximately 65.42%.
+The median reliability score is approximately 65.48%, indicating a balanced distribution of reliability scores across routes.
+Most Reliable Route:
+Route: CR-Shuttle003
+Reliability Score: 92.59%
+Least Reliable Route:
+Route: 9703
+Reliability Score: 32.01%
+
+Population Sizes and Characteristics of Communities Serviced by Different Bus Routes
+Most Populated Route:
+
+Route: T15
+Total Population: 612,022
+Racial and Ethnic Composition:
+White: 38.30%
+Black: 25.39%
+AAPI: 13.57%
+Hispanic: 20.70%
+Other: 2.05%
+Least Populated Route:
+
+Route: SLW
+Total Population: 36,734
+Racial and Ethnic Composition:
+White: 73.44%
+Black: 3.79%
+AAPI: 15.07%
+Hispanic: 6.95%
+Other: 0.74%
+Diverse Routes:
+
+For instance, Route 10 has a balanced racial and ethnic composition with no single group exceeding 50%. It serves a community where:
+White: 38.95%
+Black: 26.88%
+AAPI: 12.26%
+Hispanic: 19.87%
+Other: 2.04%
+Routes with Predominantly White Population:
+
+Route 245 serves a community with a notably high White percentage of 89.29%.
+Routes with Predominantly Black Population:
+
+Route 245 also serves a community where Black individuals constitute a significant 72.15% of the population.
+Routes with Predominantly Hispanic Population:
+
+Route T104 has a high Hispanic percentage of 52.32%.
