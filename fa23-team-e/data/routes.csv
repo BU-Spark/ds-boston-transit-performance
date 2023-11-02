@@ -1,0 +1,179 @@
+,id,description,direction_destinations,direction_names,long_name,short_name,type
+0,Red,Rapid Transit,"['Ashmont/Braintree', 'Alewife']","['South', 'North']",Red Line,,1
+1,Mattapan,Rapid Transit,"['Mattapan', 'Ashmont']","['Outbound', 'Inbound']",Mattapan Trolley,,0
+2,Orange,Rapid Transit,"['Forest Hills', 'Oak Grove']","['South', 'North']",Orange Line,,1
+3,Green-B,Rapid Transit,"['Boston College', 'Government Center']","['West', 'East']",Green Line B,B,0
+4,Green-C,Rapid Transit,"['Cleveland Circle', 'Government Center']","['West', 'East']",Green Line C,C,0
+5,Green-D,Rapid Transit,"['Riverside', 'Union Square']","['West', 'East']",Green Line D,D,0
+6,Green-E,Rapid Transit,"['Heath Street', 'Medford/Tufts']","['West', 'East']",Green Line E,E,0
+7,Blue,Rapid Transit,"['Bowdoin', 'Wonderland']","['West', 'East']",Blue Line,,1
+8,741,Key Bus,"['Logan Airport Terminals', 'South Station']","['Outbound', 'Inbound']",Logan Airport Terminals - South Station,SL1,3
+9,742,Key Bus,"['Drydock Avenue', 'South Station']","['Outbound', 'Inbound']",Drydock Avenue - South Station,SL2,3
+10,743,Key Bus,"['Chelsea Station', 'South Station']","['Outbound', 'Inbound']",Chelsea Station - South Station,SL3,3
+11,751,Key Bus,"['Nubian Station', 'South Station']","['Outbound', 'Inbound']",Nubian Station - South Station,SL4,3
+12,749,Key Bus,"['Nubian Station', 'Temple Place']","['Outbound', 'Inbound']",Nubian Station - Temple Place,SL5,3
+13,746,Key Bus,"['Silver Line Way', 'South Station']","['Outbound', 'Inbound']",Silver Line Way - South Station,SLW,3
+14,CR-Fairmount,Commuter Rail,"['Fairmount', 'South Station']","['Outbound', 'Inbound']",Fairmount Line,,2
+15,CR-Fitchburg,Commuter Rail,"['Wachusett', 'North Station']","['Outbound', 'Inbound']",Fitchburg Line,,2
+16,CR-Worcester,Commuter Rail,"['Worcester', 'South Station']","['Outbound', 'Inbound']",Framingham/Worcester Line,,2
+17,CR-Franklin,Commuter Rail,"['Forge Park/495 or Foxboro', 'South Station']","['Outbound', 'Inbound']",Franklin/Foxboro Line,,2
+18,CR-Greenbush,Commuter Rail,"['Greenbush', 'South Station']","['Outbound', 'Inbound']",Greenbush Line,,2
+19,CR-Haverhill,Commuter Rail,"['Haverhill', 'North Station']","['Outbound', 'Inbound']",Haverhill Line,,2
+20,CR-Kingston,Commuter Rail,"['Kingston', 'South Station']","['Outbound', 'Inbound']",Kingston Line,,2
+21,CR-Lowell,Commuter Rail,"['Lowell', 'North Station']","['Outbound', 'Inbound']",Lowell Line,,2
+22,CR-Middleborough,Commuter Rail,"['Middleborough/Lakeville', 'South Station']","['Outbound', 'Inbound']",Middleborough/Lakeville Line,,2
+23,CR-Needham,Commuter Rail,"['Needham Heights', 'South Station']","['Outbound', 'Inbound']",Needham Line,,2
+24,CR-Newburyport,Commuter Rail,"['Newburyport or Rockport', 'North Station']","['Outbound', 'Inbound']",Newburyport/Rockport Line,,2
+25,CR-Providence,Commuter Rail,"['Stoughton or Wickford Junction', 'South Station']","['Outbound', 'Inbound']",Providence/Stoughton Line,,2
+26,CR-Foxboro,Commuter Rail,"['Foxboro or Providence', 'South Station or Foxboro']","['Outbound', 'Inbound']",Foxboro Event Service,,2
+27,Boat-F4,Ferry,"['Charlestown', 'Long Wharf']","['Outbound', 'Inbound']",Charlestown Ferry,,4
+28,Boat-F1,Ferry,"['Hingham or Hull', 'Long Wharf or Rowes Wharf']","['Outbound', 'Inbound']",Hingham/Hull Ferry,,4
+29,Boat-EastBoston,Ferry,"['Lewis Mall Wharf', 'Long Wharf']","['Outbound', 'Inbound']",East Boston Ferry,,4
+30,Boat-Lynn,Ferry,"['Blossom Street Pier', 'Long Wharf']","['Outbound', 'Inbound']",Lynn Ferry,,4
+31,Boat-F6,Ferry,"['Winthrop', 'Central Wharf']","['Outbound', 'Inbound']",Winthrop Ferry,,4
+32,747,Local Bus,"['Sullivan Square Station', 'Ruggles Station']","['Outbound', 'Inbound']",Sullivan Square Station - Ruggles Station,CT2,3
+33,708,Local Bus,"['Beth Israel Deaconess Hospital', 'Andrew Station']","['Outbound', 'Inbound']",Beth Israel Deaconess Hospital - Andrew Station,CT3,3
+34,1,Key Bus,"['Harvard Square', 'Nubian Station']","['Outbound', 'Inbound']",Harvard Square - Nubian Station,1,3
+35,4,Commuter Bus,"['North Station', 'Tide Street']","['Outbound', 'Inbound']",North Station - Tide Street,4,3
+36,7,Local Bus,"['City Point', 'Otis Street & Summer Street']","['Outbound', 'Inbound']",City Point - Otis Street & Summer Street,7,3
+37,8,Local Bus,"['Harbor Point', 'Kenmore Station']","['Outbound', 'Inbound']",Harbor Point - Kenmore Station,8,3
+38,9,Local Bus,"['City Point', 'Copley Square']","['Outbound', 'Inbound']",City Point - Copley Square,9,3
+39,10,Local Bus,"['City Point', 'Copley Square']","['Outbound', 'Inbound']",City Point - Copley Square,10,3
+40,11,Local Bus,"['City Point', 'Chauncy Street & Summer Street']","['Outbound', 'Inbound']",City Point - Chauncy Street & Summer Street,11,3
+41,14,Local Bus,"['Roslindale Square', 'Heath Street']","['Outbound', 'Inbound']",Roslindale Square - Heath Street,14,3
+42,15,Key Bus,"['Fields Corner Station or Kane Square', 'Ruggles Station']","['Outbound', 'Inbound']",Fields Corner Station or Kane Square - Ruggles Station,15,3
+43,16,Local Bus,"['Forest Hills Station', 'Andrew Station or Harbor Point']","['Outbound', 'Inbound']",Forest Hills Station - Andrew Station or Harbor Point,16,3
+44,17,Local Bus,"['Fields Corner Station', 'Andrew Station']","['Outbound', 'Inbound']",Fields Corner Station - Andrew Station,17,3
+45,18,Local Bus,"['Ashmont Station', 'Andrew Station']","['Outbound', 'Inbound']",Ashmont Station - Andrew Station,18,3
+46,19,Local Bus,"['Fields Corner Station', 'Kenmore or Ruggles Station']","['Outbound', 'Inbound']",Fields Corner Station - Kenmore or Ruggles Station,19,3
+47,21,Local Bus,"['Ashmont Station', 'Forest Hills Station']","['Outbound', 'Inbound']",Ashmont Station - Forest Hills Station,21,3
+48,22,Key Bus,"['Ashmont Station', 'Ruggles Station']","['Outbound', 'Inbound']",Ashmont Station - Ruggles Station via Talbot Ave,22,3
+49,23,Key Bus,"['Ashmont Station', 'Ruggles Station']","['Outbound', 'Inbound']",Ashmont Station - Ruggles Station via Washington Street,23,3
+50,24,Local Bus,"['Wakefield Avenue & Truman Parkway', 'Ashmont Station']","['Outbound', 'Inbound']",Wakefield Avenue & Truman Parkway - Ashmont Station,24,3
+51,26,Local Bus,"['Ashmont Station', 'Norfolk Street Loop']","['Outbound', 'Inbound']",Ashmont Station - Norfolk Street Loop,26,3
+52,28,Key Bus,"['Mattapan Station', 'Ruggles Station']","['Outbound', 'Inbound']",Mattapan Station - Ruggles Station,28,3
+53,29,Local Bus,"['Mattapan Station', 'Jackson Square Station']","['Outbound', 'Inbound']",Mattapan Station - Jackson Square Station,29,3
+54,30,Local Bus,"['Mattapan Station', 'Forest Hills Station']","['Outbound', 'Inbound']",Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,30,3
+55,31,Local Bus,"['Mattapan Station', 'Forest Hills Station']","['Outbound', 'Inbound']",Mattapan Station - Forest Hills Station via Morton Street,31,3
+56,32,Key Bus,"['Wolcott or Cleary Square', 'Forest Hills Station']","['Outbound', 'Inbound']",Wolcott or Cleary Square - Forest Hills Station,32,3
+57,33,Local Bus,"['River Street & Milton Street', 'Mattapan Station']","['Outbound', 'Inbound']",River Street & Milton Street - Mattapan Station,33,3
+58,34,Local Bus,"['Dedham Square', 'Forest Hills Station']","['Outbound', 'Inbound']",Dedham Square - Forest Hills Station,34,3
+59,34E,Local Bus,"['Walpole Center', 'Forest Hills Station']","['Outbound', 'Inbound']",Walpole Center - Forest Hills Station,34E,3
+60,35,Local Bus,"['Dedham Mall or Stimson Street', 'Forest Hills Station']","['Outbound', 'Inbound']",Dedham Mall or Stimson Street - Forest Hills Station,35,3
+61,36,Local Bus,"['Millennium Park or VA Hospital', 'Forest Hills Station']","['Outbound', 'Inbound']",Millennium Park or VA Hospital - Forest Hills Station,36,3
+62,37,Local Bus,"['Baker Street & Vermont Street', 'Forest Hills Station']","['Outbound', 'Inbound']",Baker Street & Vermont Street - Forest Hills Station,37,3
+63,38,Local Bus,"['Wren Street', 'Forest Hills Station']","['Outbound', 'Inbound']",Wren Street - Forest Hills Station,38,3
+64,39,Key Bus,"['Forest Hills Station', 'Back Bay Station']","['Outbound', 'Inbound']",Forest Hills Station - Back Bay Station,39,3
+65,40,Local Bus,"['Georgetowne', 'Forest Hills Station']","['Outbound', 'Inbound']",Georgetowne - Forest Hills Station,40,3
+66,41,Local Bus,"['Centre Street & Eliot Street', 'JFK/UMass Station']","['Outbound', 'Inbound']",Centre Street & Eliot Street - JFK/UMass Station,41,3
+67,42,Local Bus,"['Forest Hills Station', 'Nubian Station']","['Outbound', 'Inbound']",Forest Hills Station - Nubian Station,42,3
+68,43,Local Bus,"['Ruggles Station', 'Park Street Station']","['Outbound', 'Inbound']",Ruggles Station - Park Street Station,43,3
+69,44,Local Bus,"['Jackson Square Station', 'Ruggles Station']","['Outbound', 'Inbound']",Jackson Square Station - Ruggles Station,44,3
+70,45,Local Bus,"['Franklin Park', 'Ruggles Station']","['Outbound', 'Inbound']",Franklin Park - Ruggles Station,45,3
+71,47,Local Bus,"['Central Square, Cambridge', 'Broadway Station']","['Outbound', 'Inbound']","Central Square, Cambridge - Broadway Station",47,3
+72,50,Local Bus,"['Cleary Square', 'Forest Hills Station']","['Outbound', 'Inbound']",Cleary Square - Forest Hills Station,50,3
+73,51,Local Bus,"['Reservoir Station', 'Forest Hills Station']","['Outbound', 'Inbound']",Reservoir Station - Forest Hills Station,51,3
+74,52,Local Bus,"['Dedham Mall', 'Watertown Yard']","['Outbound', 'Inbound']",Dedham Mall - Watertown Yard,52,3
+75,55,Local Bus,"['Fenway', 'Copley Square']","['Outbound', 'Inbound']",Fenway - Copley Square,55,3
+76,57,Key Bus,"['Watertown Yard', 'Kenmore Station']","['Outbound', 'Inbound']",Watertown Yard - Kenmore Station,57,3
+77,59,Local Bus,"['Needham Junction', 'Watertown Square']","['Outbound', 'Inbound']",Needham Junction - Watertown Square,59,3
+78,60,Local Bus,"['Chestnut Hill', 'Kenmore Station']","['Outbound', 'Inbound']",Chestnut Hill - Kenmore Station,60,3
+79,61,Local Bus,"['North Waltham', 'Waltham Center']","['Outbound', 'Inbound']",North Waltham - Waltham Center,61,3
+80,62,Local Bus,"['Bedford VA Hospital', 'Alewife Station']","['Outbound', 'Inbound']",Bedford VA Hospital - Alewife Station,62,3
+81,627,Local Bus,"['Bedford VA Hospital', 'Alewife Station']","['Outbound', 'Inbound']",Bedford VA Hospital - Alewife Station via Hanscom Airport,62/76,3
+82,64,Local Bus,"['Oak Square', 'University Park or Kendall/MIT Station']","['Outbound', 'Inbound']",Oak Square - University Park or Kendall/MIT Station,64,3
+83,65,Local Bus,"['Brighton Center', 'Kenmore Station']","['Outbound', 'Inbound']",Brighton Center - Kenmore Station,65,3
+84,66,Key Bus,"['Harvard Square', 'Nubian Station']","['Outbound', 'Inbound']",Harvard Square - Nubian Station,66,3
+85,67,Local Bus,"['Turkey Hill', 'Alewife Station']","['Outbound', 'Inbound']",Turkey Hill - Alewife Station,67,3
+86,68,Local Bus,"['Harvard Square', 'Kendall/MIT Station']","['Outbound', 'Inbound']",Harvard Square - Kendall/MIT Station,68,3
+87,69,Local Bus,"['Harvard Square', 'Lechmere Station']","['Outbound', 'Inbound']",Harvard Square - Lechmere Station,69,3
+88,70,Local Bus,"['Market Place Drive or Waltham Center', 'University Park']","['Outbound', 'Inbound']",Market Place Drive or Waltham Center - University Park,70,3
+89,71,Key Bus,"['Watertown Square', 'Harvard Station']","['Outbound', 'Inbound']",Watertown Square - Harvard Station,71,3
+90,73,Key Bus,"['Waverley Square', 'Harvard Station']","['Outbound', 'Inbound']",Waverley Square - Harvard Station,73,3
+91,74,Local Bus,"['Belmont Center', 'Harvard']","['Outbound', 'Inbound']",Belmont Center - Harvard via Concord Avenue,74,3
+92,75,Local Bus,"['Belmont Center', 'Harvard']","['Outbound', 'Inbound']",Belmont Center - Harvard via Huron Avenue,75,3
+93,76,Local Bus,"['Lincoln Lab', 'Alewife Station']","['Outbound', 'Inbound']",Lincoln Lab - Alewife Station,76,3
+94,77,Key Bus,"['Arlington Heights', 'Harvard Station']","['Outbound', 'Inbound']",Arlington Heights - Harvard Station,77,3
+95,78,Local Bus,"['Arlmont Village', 'Harvard Station']","['Outbound', 'Inbound']",Arlmont Village - Harvard Station,78,3
+96,80,Local Bus,"['Arlington Center', 'Lechmere Station']","['Outbound', 'Inbound']",Arlington Center - Lechmere Station,80,3
+97,83,Local Bus,"['Rindge Avenue', 'Central Square, Cambridge']","['Outbound', 'Inbound']","Rindge Avenue - Central Square, Cambridge",83,3
+98,85,Local Bus,"['Spring Hill', 'Kendall/MIT Station']","['Outbound', 'Inbound']",Spring Hill - Kendall/MIT Station,85,3
+99,86,Local Bus,"['Sullivan Square Station', 'Reservoir Station']","['Outbound', 'Inbound']",Sullivan Square Station - Reservoir Station,86,3
+100,87,Local Bus,"['Clarendon Hill or Arlington Center', 'Lechmere Station']","['Outbound', 'Inbound']",Clarendon Hill or Arlington Center - Lechmere Station,87,3
+101,88,Local Bus,"['Clarendon Hill', 'Lechmere Station']","['Outbound', 'Inbound']",Clarendon Hill - Lechmere Station,88,3
+102,89,Local Bus,"['Clarendon Hill or Davis Station', 'Sullivan Square Station']","['Outbound', 'Inbound']",Clarendon Hill or Davis Station - Sullivan Square Station,89,3
+103,90,Local Bus,"['Davis Station', 'Assembly Row']","['Outbound', 'Inbound']",Davis Station - Assembly Row,90,3
+104,91,Local Bus,"['Sullivan Square Station', 'Central Square, Cambridge']","['Outbound', 'Inbound']","Sullivan Square Station - Central Square, Cambridge",91,3
+105,92,Local Bus,"['Sullivan Square Station', 'Downtown']","['Outbound', 'Inbound']",Sullivan Square Station - Downtown via Main Street,92,3
+106,93,Local Bus,"['Sullivan Square Station', 'Downtown']","['Outbound', 'Inbound']",Sullivan Square Station - Downtown via Bunker Hill Street,93,3
+107,94,Local Bus,"['Medford Square', 'Davis Station']","['Outbound', 'Inbound']",Medford Square - Davis Station,94,3
+108,95,Local Bus,"['West Medford or Arlington Center', 'Sullivan Square Station']","['Outbound', 'Inbound']",West Medford or Arlington Center - Sullivan Square Station,95,3
+109,96,Local Bus,"['Medford Square', 'Harvard Station']","['Outbound', 'Inbound']",Medford Square - Harvard Station,96,3
+110,97,Local Bus,"['Malden Center Station', 'Wellington Station']","['Outbound', 'Inbound']",Malden Center Station - Wellington Station,97,3
+111,99,Local Bus,"['Woodland Road', 'Wellington Station']","['Outbound', 'Inbound']",Woodland Road - Wellington Station,99,3
+112,100,Local Bus,"['Elm Street', 'Wellington Station']","['Outbound', 'Inbound']",Elm Street - Wellington Station,100,3
+113,101,Local Bus,"['Malden Center Station', 'Sullivan Square Station']","['Outbound', 'Inbound']",Malden Center Station - Sullivan Square Station via Winter Hill,101,3
+114,104,Local Bus,"['Malden Center Station', 'Sullivan Square Station']","['Outbound', 'Inbound']",Malden Center Station - Sullivan Square Station via Ferry Street,104,3
+115,105,Local Bus,"['Malden Center Station', 'Sullivan Square Station']","['Outbound', 'Inbound']",Malden Center Station - Sullivan Square Station via Newland Street Housing,105,3
+116,106,Local Bus,"['Lebanon Loop', 'Wellington Station']","['Outbound', 'Inbound']",Lebanon Loop - Wellington Station,106,3
+117,108,Local Bus,"['Linden Square', 'Wellington Station']","['Outbound', 'Inbound']",Linden Square - Wellington Station,108,3
+118,109,Local Bus,"['Linden Square', 'Sullivan Square Station']","['Outbound', 'Inbound']",Linden Square - Sullivan Square Station,109,3
+119,110,Local Bus,"['Wonderland Station', 'Wellington Station']","['Outbound', 'Inbound']",Wonderland Station - Wellington Station,110,3
+120,111,Key Bus,"['Woodlawn', 'Haymarket Station']","['Outbound', 'Inbound']",Woodlawn - Haymarket Station,111,3
+121,112,Local Bus,"['Wellington Station', 'Wood Island Station']","['Outbound', 'Inbound']",Wellington Station - Wood Island Station,112,3
+122,114,Community Bus,"['Market Basket', 'Maverick Station']","['Outbound', 'Inbound']",Market Basket - Maverick Station,114,3
+123,116,Key Bus,"['Wonderland Station', 'Maverick Station']","['Outbound', 'Inbound']",Wonderland Station - Maverick Station via Revere Street,116,3
+124,117,Key Bus,"['Wonderland Station', 'Maverick Station']","['Outbound', 'Inbound']",Wonderland Station - Maverick Station via Beach Street,117,3
+125,119,Local Bus,"['Northgate Shopping Center', 'Beachmont Station']","['Outbound', 'Inbound']",Northgate Shopping Center - Beachmont Station,119,3
+126,120,Local Bus,"['Orient Heights Station', 'Jeffries Point']","['Outbound', 'Inbound']",Orient Heights Station - Jeffries Point,120,3
+127,121,Commuter Bus,"['Wood Island Station', 'Maverick Station']","['Outbound', 'Inbound']",Wood Island Station - Maverick Station,121,3
+128,131,Commuter Bus,"['Melrose Highlands', 'Oak Grove or Malden Center Station']","['Outbound', 'Inbound']",Melrose Highlands - Oak Grove or Malden Center Station,131,3
+129,132,Local Bus,"['Redstone Shopping Center', 'Malden Center Station']","['Outbound', 'Inbound']",Redstone Shopping Center - Malden Center Station,132,3
+130,134,Local Bus,"['North Woburn', 'Wellington Station']","['Outbound', 'Inbound']",North Woburn - Wellington Station,134,3
+131,137,Local Bus,"['Reading Depot', 'Malden Center Station']","['Outbound', 'Inbound']",Reading Depot - Malden Center Station,137,3
+132,171,Supplemental Bus,"['Logan Airport Terminals', 'Nubian Station']","['Outbound', 'Inbound']",Logan Airport Terminals - Nubian Station,171,3
+133,201,Local Bus,"['Fields Corner Loop', 'Fields Corner Loop']","['Outbound', 'Inbound']",Fields Corner Loop via Neponset Ave,201,3
+134,202,Local Bus,"['Fields Corner Loop', 'Fields Corner Loop']","['Outbound', 'Inbound']",Fields Corner Loop via Adams Street,202,3
+135,210,Local Bus,"['Quincy Center Station', 'Fields Corner Station']","['Outbound', 'Inbound']",Quincy Center Station - Fields Corner Station,210,3
+136,211,Local Bus,"['Quincy Center Station', 'Squantum']","['Outbound', 'Inbound']",Quincy Center Station - Squantum,211,3
+137,215,Local Bus,"['Quincy Center Station', 'Ashmont Station']","['Outbound', 'Inbound']",Quincy Center Station - Ashmont Station via West Quincy,215,3
+138,216,Local Bus,"['Houghs Neck', 'Quincy Center Station']","['Outbound', 'Inbound']",Houghs Neck - Quincy Center Station via Germantown,216,3
+139,217,Commuter Bus,"['Quincy Center Station', 'Ashmont Station']","['Outbound', 'Inbound']",Quincy Center Station - Ashmont Station via Wollaston Station,217,3
+140,220,Local Bus,"['Hingham Depot', 'Quincy Center Station']","['Outbound', 'Inbound']",Hingham Depot - Quincy Center Station,220,3
+141,222,Local Bus,"['East Weymouth', 'Quincy Center Station']","['Outbound', 'Inbound']",East Weymouth - Quincy Center Station,222,3
+142,225,Local Bus,"['Weymouth Landing', 'Quincy Center Station']","['Outbound', 'Inbound']",Weymouth Landing - Quincy Center Station,225,3
+143,226,Local Bus,"['Columbian Square', 'Braintree Station']","['Outbound', 'Inbound']",Columbian Square - Braintree Station,226,3
+144,230,Local Bus,"['Montello Station', 'Quincy Center Station']","['Outbound', 'Inbound']",Montello Station - Quincy Center Station,230,3
+145,236,Local Bus,"['South Shore Plaza', 'Quincy Center Station']","['Outbound', 'Inbound']",South Shore Plaza - Quincy Center Station,236,3
+146,238,Local Bus,"['Holbrook/Randolph Station', 'Quincy Center Station']","['Outbound', 'Inbound']",Holbrook/Randolph Station - Quincy Center Station,238,3
+147,240,Local Bus,"['Avon Square', 'Ashmont Station']","['Outbound', 'Inbound']",Avon Square - Ashmont Station,240,3
+148,245,Local Bus,"['Quincy Center Station', 'Mattapan Station']","['Outbound', 'Inbound']",Quincy Center Station - Mattapan Station,245,3
+149,350,Local Bus,"['North Burlington', 'Alewife Station']","['Outbound', 'Inbound']",North Burlington - Alewife Station,350,3
+150,351,Commuter Bus,"['Bedford Woods Drive', 'Third Avenue']","['Outbound', 'Inbound']",Bedford Woods Drive - Third Avenue,351,3
+151,354,Commuter Bus,"['North Burlington', 'State Street, Boston']","['Outbound', 'Inbound']","North Burlington - State Street, Boston",354,3
+152,411,Local Bus,"['Kennedy Drive or Jack Satter House', 'Malden Center Station']","['Outbound', 'Inbound']",Kennedy Drive or Jack Satter House - Malden Center Station,411,3
+153,424,Commuter Bus,"['Eastern Avenue & Essex Street', 'Wonderland Station']","['Outbound', 'Inbound']",Eastern Avenue & Essex Street - Wonderland Station,424,3
+154,426,Local Bus,"['Central Square, Lynn', 'Haymarket or Wonderland Station']","['Outbound', 'Inbound']","Central Square, Lynn - Haymarket or Wonderland Station",426,3
+155,428,Commuter Bus,"['Oaklandvale', 'Haymarket Station']","['Outbound', 'Inbound']",Oaklandvale - Haymarket Station,428,3
+156,429,Local Bus,"['Northgate Shopping Center', 'Central Square, Lynn']","['Outbound', 'Inbound']","Northgate Shopping Center - Central Square, Lynn",429,3
+157,430,Local Bus,"['Saugus Center', 'Malden Center Station']","['Outbound', 'Inbound']",Saugus Center - Malden Center Station,430,3
+158,435,Local Bus,"['Liberty Tree Mall', 'Central Square, Lynn']","['Outbound', 'Inbound']","Liberty Tree Mall - Central Square, Lynn via Peabody Square",435,3
+159,436,Local Bus,"['Liberty Tree Mall', 'Central Square, Lynn']","['Outbound', 'Inbound']","Liberty Tree Mall - Central Square, Lynn via Goodwin Circle",436,3
+160,439,Commuter Bus,"['Nahant', 'Wonderland Station']","['Outbound', 'Inbound']",Nahant - Wonderland Station,439,3
+161,441,Local Bus,"['Marblehead', 'Wonderland Station']","['Outbound', 'Inbound']",Marblehead - Wonderland Station via Paradise Road,441,3
+162,442,Local Bus,"['Marblehead', 'Wonderland Station']","['Outbound', 'Inbound']",Marblehead - Wonderland Station via Humphrey Street,442,3
+163,450,Local Bus,"['Salem Depot', 'Wonderland or Haymarket Station']","['Outbound', 'Inbound']",Salem Depot - Wonderland or Haymarket Station,450,3
+164,451,Commuter Bus,"['North Beverly Station', 'Salem Depot']","['Outbound', 'Inbound']",North Beverly Station - Salem Depot,451,3
+165,455,Local Bus,"['Salem Depot', 'Wonderland Station']","['Outbound', 'Inbound']",Salem Depot - Wonderland Station,455,3
+166,456,Local Bus,"['Salem Depot', 'Central Square, Lynn']","['Outbound', 'Inbound']","Salem Depot - Central Square, Lynn",456,3
+167,501,Commuter Bus,"['Brighton Center', 'Federal Street & Franklin Street']","['Outbound', 'Inbound']",Brighton Center - Federal Street & Franklin Street,501,3
+168,504,Commuter Bus,"['Watertown Yard', 'Federal Street & Franklin Street']","['Outbound', 'Inbound']",Watertown Yard - Federal Street & Franklin Street,504,3
+169,505,Commuter Bus,"['Waltham Center', 'Federal Street & Franklin Street']","['Outbound', 'Inbound']",Waltham Center - Federal Street & Franklin Street,505,3
+170,553,Local Bus,"['Roberts', 'Newton Corner']","['Outbound', 'Inbound']",Roberts - Newton Corner,553,3
+171,554,Local Bus,"['Waverley Square', 'Newton Corner']","['Outbound', 'Inbound']",Waverley Square - Newton Corner,554,3
+172,556,Commuter Bus,"['Waltham Highlands', 'Newton Corner']","['Outbound', 'Inbound']",Waltham Highlands - Newton Corner,556,3
+173,558,Commuter Bus,"['Riverside Station', 'Newton Corner']","['Outbound', 'Inbound']",Riverside Station - Newton Corner,558,3
+174,712,Local Bus,"['Point Shirley', 'Orient Heights Station']","['Outbound', 'Inbound']",Point Shirley - Orient Heights Station via Revere Street,712,3
+175,713,Local Bus,"['Point Shirley', 'Orient Heights Station']","['Outbound', 'Inbound']",Point Shirley - Orient Heights Station via Winthrop Center,713,3
+176,714,Local Bus,"['Pemberton Point, Hull', 'Station Street, Hingham']","['Outbound', 'Inbound']","Pemberton Point, Hull - Station Street, Hingham",714,3
+177,716,Local Bus,"['Cobbs Corner', 'Mattapan Station']","['Outbound', 'Inbound']",Cobbs Corner - Mattapan Station,716,3
