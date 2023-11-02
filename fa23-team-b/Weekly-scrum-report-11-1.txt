@@ -1,0 +1,20 @@
+What have we worked on?
+We have worked on analyzing the end-to-end travel time for all MBTA bus routes throughout Boston for the year 2022. We've also compared the scheduled times with the actual arrival and departure times for these routes. Through our analysis, we've created visualizations that represent the average travel time by route and the average lateness for each route. Our findings so far have highlighted that most routes tend to be late when compared to the scheduled times.
+
+What will we be working on next?
+Next, we are going to delve into understanding the population sizes and characteristics of the communities serviced by these different bus routes. This includes analyzing demographics such as race, ethnicity, age, and the presence of individuals with disabilities or vulnerabilities. Our goal is to determine if there are service level disparities and to understand if there are differences in the characteristics of the people who are most impacted by these disparities.
+
+This next step will involve integrating additional data sets, including census data, traffic reports, and service quality metrics. We will be looking at which neighborhoods are better or worse served by the MBTA bus system, assessing the quality of service across different routes, and examining the correlation between service quality and the demographics of the communities served.
+
+Have we run into any issues? Do we need help?
+So far, we haven't run into any significant issues. The analysis has been progressing smoothly, and our team has been able to meet the project's milestones as planned.
+
+Team Lead: Have I talked to the client recently? When are we meeting with them next?
+Our team lead has recently spoken with the client and will speak with them on Thursday to update them on our progress. They will be aware of the conclusions we've drawn from our initial analysis.
+
+For deliverable 1, roles for each team member:
+Yu and Vishvakishore worked together for the preliminary data cleaning and analysis. They sifted through the data, standardized formats, and addressed any missing or outlier values.
+
+Yu, Vishvakishore, and Kevin also collaborated on computing and visualizing the end-to-end travel time and lateness of the bus routes. 
+
+Suin and Yufeng focused on the write-up analysis of Deliverable 1, including the method, results, and initial conclusions.
