@@ -1,0 +1,55 @@
+Pattern ID,Name,Route ID
+Green-E-886-1,Heath Street - Medford/Tufts,Green-E
+CR-Needham-C1-1,Needham Heights - South Station,CR-Needham
+CR-Providence-C1-0,South Station - Wickford Junction via Back Bay,CR-Providence
+CR-Haverhill-ebc58735-1,Haverhill - North Station via Reading,CR-Haverhill
+CR-Newburyport-C1-0,North Station - Newburyport,CR-Newburyport
+Mattapan-_-1,Mattapan - Ashmont,Mattapan
+CR-Fitchburg-2a5f6366-0,North Station - Wachusett,CR-Fitchburg
+CR-Haverhill-779dede9-0,North Station - Haverhill via Reading,CR-Haverhill
+CR-Fitchburg-d82ea33a-1,Wachusett - North Station,CR-Fitchburg
+Blue-6-0,Wonderland - Bowdoin,Blue
+Green-E-886-0,Medford/Tufts - Heath Street,Green-E
+Red-3-1,Braintree - Alewife,Red
+Green-C-832-1,Cleveland Circle - Government Center,Green-C
+CR-Providence-C2-0,South Station - Stoughton via Back Bay,CR-Providence
+Green-C-832-0,Government Center - Cleveland Circle,Green-C
+CR-Lowell-C1-1,Lowell - North Station,CR-Lowell
+CR-Franklin-C2-1,Foxboro - South Station via Back Bay,CR-Franklin
+CR-Foxboro-C1-0,South Station - Foxboro,CR-Foxboro
+CR-Worcester-C1-1,Worcester - South Station,CR-Worcester
+CR-Lowell-C1-0,North Station - Lowell,CR-Lowell
+CR-Kingston-6cec404d-1,Kingston - South Station,CR-Kingston
+CR-Middleborough-52b80476-0,South Station - Middleborough/Lakeville,CR-Middleborough
+CapeFlyer-C1-0,South Station - Hyannis,CapeFlyer
+Blue-6-1,Bowdoin - Wonderland,Blue
+CR-Newburyport-C2-0,North Station - Rockport,CR-Newburyport
+Red-3-0,Alewife - Braintree,Red
+Green-D-855-0,Union Square - Riverside,Green-D
+Orange-3-1,Forest Hills - Oak Grove,Orange
+CR-Providence-C2-1,Stoughton - South Station via Back Bay,CR-Providence
+Red-1-1,Ashmont - Alewife,Red
+CR-Greenbush-6d652c57-0,South Station - Greenbush,CR-Greenbush
+Orange-3-0,Oak Grove - Forest Hills,Orange
+CR-Newburyport-C1-1,Newburyport - North Station,CR-Newburyport
+Green-B-812-1,Boston College - Government Center,Green-B
+CR-Fairmount-ff9cd1ee-1,Readville - South Station via Fairmount,CR-Fairmount
+CR-Worcester-C1-0,South Station - Worcester,CR-Worcester
+CR-Newburyport-C2-1,Rockport - North Station,CR-Newburyport
+CR-Franklin-C1-1,Forge Park/495 - South Station via Back Bay,CR-Franklin
+Green-D-855-1,Riverside - Union Square,Green-D
+CR-Foxboro-C2-1,Providence - Foxboro,CR-Foxboro
+CR-Kingston-5caee635-0,South Station - Kingston,CR-Kingston
+Mattapan-_-0,Ashmont - Mattapan,Mattapan
+CR-Fairmount-195ea3c8-0,South Station - Readville via Fairmount,CR-Fairmount
+CR-Greenbush-414eb5a9-1,Greenbush - South Station,CR-Greenbush
+CR-Middleborough-75bed2bb-1,Middleborough/Lakeville - South Station,CR-Middleborough
+CapeFlyer-C1-1,Hyannis - South Station,CapeFlyer
+CR-Franklin-C1-0,South Station - Forge Park/495 via Back Bay,CR-Franklin
+Red-1-0,Alewife - Ashmont,Red
+CR-Providence-C1-1,Wickford Junction - South Station via Back Bay,CR-Providence
+CR-Foxboro-C2-0,Foxboro - Providence,CR-Foxboro
+CR-Needham-C1-0,South Station - Needham Heights,CR-Needham
+Green-B-812-0,Government Center - Boston College,Green-B
+CR-Franklin-C2-0,South Station - Foxboro via Back Bay,CR-Franklin
+CR-Foxboro-C1-1,Foxboro - South Station,CR-Foxboro
