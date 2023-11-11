@@ -1,0 +1,14 @@
+What have we worked on?
+We have been analyzing disparities in the service levels of different bus routes in Boston. Specifically, we used the 2020 Census data to understand the layout and demographics of Boston's neighborhoods, census tracts, block groups, and voting districts. Additionally, we utilized data on route_id, route_pattern, and lines of MBTA Boston bus to examine the impact of bus routes on these various geographical segments. We employed mapping techniques to visualize the influence of bus routes and activities across different block groups, voting districts, and neighborhoods.
+
+
+What will we be working on next?
+Next week, our focus will shift to answering the fourth base question: "If there are service level disparities, are there differences in the characteristics of the people most impacted?" This will involve an exploration into the demographic and possibly socio-economic characteristics of the populations within the affected areas, building on our EDA for the third base question that we tackled this week.
+
+
+Have we run into any issues? Do we need help?
+So far, we haven't encountered any major issues that have hindered our progress.
+
+
+Team Lead: Have I talked to the client recently? When are we meeting with them next?
+Our Team Lead has not had recent communication with the client but we will update Spark PM on our progress and seek their feedback.
