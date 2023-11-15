@@ -1,0 +1,7 @@
+X,Y,FID,Field1,Stop_ID,Stop_Name,Longitude,Latitude,Municip,PATI_Prior,PATI_Prgrm,Brf_Status,Routes,Bus_Ctgry,Trash17,BikeRks17,Trees17,Hydrants17,UtPoles17,LtPoles17,NewsBxs17,MailBxs17,Planters17,BlkdPath17,SeatNum17,SeatType17,SeatCond17,zip_code
+-71.077301,42.341006,1,800,1249,Tremont St @ Rutland Sq,-71.077301,42.341006,Boston,Low, , ,43,Local Bus,1,2,2,0,0,0,0,0,0,No,0, , ,02118
+-71.078787,42.3401870000001,2,801,1250,Tremont St @ Worcester St,-71.078787,42.340187,Boston,Medium, , ,43,Local Bus,0,0,2,0,0,1,0,0,0,No,0, , ,02118
+-71.0797679999999,42.339703,3,802,1251,Tremont St @ W Springfield St,-71.079768,42.339703,Boston,Compliant, ,Compliant,43,Local Bus,0,0,2,0,1,1,0,0,0,No,0, , ,02118
+-71.081129,42.338955,4,803,1252,Tremont St @ Northampton St,-71.081129,42.338955,Boston,Medium, , ,43,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,02118
+-71.083178,42.3378240000001,5,804,1253,Tremont St @ Douglas Pk,-71.083178,42.337824,Boston,Medium, , ,43,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,02118
+-71.0848,42.336908,6,805,1254,Tremont St @ Burke St,-71.0848,42.336908,Boston,Medium, , ,43,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,02120
