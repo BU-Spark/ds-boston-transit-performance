@@ -42,12 +42,14 @@ for index, row in bus_stops.iterrows():
             f.write(str(row["Stop_ID"]) + '\n')
             f.close()
         continue
-        
+    
+    if index == 5:
+        break
     sleep(0.05)
         # use the data dictionary
         # pp.pprint(data)
 
 # print(list_of_zip_codes)
 df = pd.DataFrame(list_of_zip_codes, columns=columns + ['zip_code'])
-df.to_csv('data/bus_stops_with_zip_codes.csv', index=False)
+df.to_csv('data/bus_stops_with_zip_codes_google.csv', index=False)
 
