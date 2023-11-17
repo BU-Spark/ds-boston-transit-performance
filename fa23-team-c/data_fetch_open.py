@@ -5,7 +5,7 @@ from time import sleep
 import requests
 import random
 
-bus_stops = pd.read_csv('data/PATI_BUS_Stops.csv')
+bus_stops = pd.read_csv('data/stops_coordinates.csv')
 list_of_zip_codes = []
 pp = pprint.PrettyPrinter(compact=True)
 columns = list(bus_stops.columns)
@@ -13,15 +13,15 @@ columns = list(bus_stops.columns)
 # iterate over rows of bus_stops dataframe
 for index, row in bus_stops.iterrows():
     # do something with each row
-    print(row["Stop_ID"], row["Latitude"], row["Longitude"])
+    print(row["stop_id"], row["latitude"], row["longitude"])
 
     # define the url and parameters
 
     url = "https://nominatim.openstreetmap.org/reverse"
     params = {
         "format": "geocodejson",
-        "lat": f'{row["Latitude"]}',
-        "lon": f'{row["Longitude"]}'
+        "lat": f'{row["latitude"]}',
+        "lon": f'{row["longitude"]}'
     }
 
     response = requests.get(url, params=params)
@@ -38,9 +38,9 @@ for index, row in bus_stops.iterrows():
         row_list.append(zip_code)
         list_of_zip_codes.append(row_list)
     except:
-        print(f'No postal code found for {row["Stop_ID"]}')
+        print(f'No postal code found for {row["stop_id"]}')
         with open('data/failed_stop_ids.txt', 'a') as f:
-            f.write(str(row["Stop_ID"]) + '\n')
+            f.write(str(row["stop_id"]) + '\n')
             f.close()
         continue
 
@@ -55,5 +55,5 @@ for index, row in bus_stops.iterrows():
 
 # print(list_of_zip_codes)
 df = pd.DataFrame(list_of_zip_codes, columns=columns + ['zip_code'])
-df.to_csv('data/bus_stops_with_zip_codes_open.csv', index=False)
+df.to_csv('data/bus_stops_with_zip_codes_open_new.csv', index=False)
 
