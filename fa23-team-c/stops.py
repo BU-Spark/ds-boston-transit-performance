@@ -1,5 +1,6 @@
 import pandas as pd
 import requests
+import Constants
 import csv
 
 # data = pd.read_csv('MBTA-Bus-Arrival-Departure-Times_2022-01.csv')
@@ -21,11 +22,10 @@ def get_stop_info(stop_id, api_key):
 
 df = pd.read_csv('stops.csv')
 stop_ids = df['stop_id'].tolist()
-API_KEY = "fff28dec8ca849b294db17c6aebede8b"
 stops_data = []
 
 for stop_id in stop_ids:
-    stop_info = get_stop_info(stop_id, API_KEY)
+    stop_info = get_stop_info(stop_id, Constants.MBTA_KEY)
     if stop_info:
         latitude = stop_info['data']['attributes']['latitude']
         longitude = stop_info['data']['attributes']['longitude']
