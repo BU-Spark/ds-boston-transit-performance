@@ -7,3 +7,6 @@
 
 # Jupyter Notebook metadata
 *.ipynb-meta/
+
+fa23-team-e/data/question-1/raw/*.csv
+fa23-team-e/data/*
