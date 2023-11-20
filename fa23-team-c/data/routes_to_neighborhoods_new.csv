@@ -64,9 +64,7 @@ route_id,stop_id,neighborhood
 45,"[334, 371, 378, 383, 415, 419, 426, 1565, 1566, 1569, 1576, 1577, 1583, 1586, 11257, 17861, 17863, 21148, 64000]","['Dorchester', 'Dorchester', 'Dorchester', 'Dorchester', 'Roxbury', 'Dorchester', 'Dorchester', 'Roxbury', 'Dorchester', 'Dorchester', 'Roxbury', 'Roxbury', 'Roxbury', 'Roxbury', 'Roxbury', 'Fenway', 'Roxbury', 'Roxbury', 'Roxbury']"
 450,[117],['Downtown']
 47,"[64, 150, 1779, 1804, 1809, 10006, 10008, 10011, 17861, 17863]","['Roxbury', 'South Boston', 'Mission Hill', 'Longwood', 'Fenway', 'South End', 'South End', 'South End', 'Fenway', 'Roxbury']"
-50,"[636, 2789, 2796, 2805, 2812, 6022, 36466]","['Roslindale', 'Hyde Park', 'Roslindale', 'Roslindale', 'Hyde Park', 'Roslindale', 'Hyde Park']"
-"50
-",[10642],['Jamaica Plain']
+50,"[636, 2789, 2796, 2805, 2812, 6022, 10642, 36466]","['Roslindale', 'Hyde Park', 'Roslindale', 'Roslindale', 'Hyde Park', 'Roslindale', 'Jamaica Plain', 'Hyde Park']"
 501,"[178, 994, 1994, 6550, 6551, 6555, 71855]","['Back Bay', 'Brighton', 'Brighton', 'Downtown', 'Downtown', 'Downtown', 'South End']"
 504,"[178, 6550, 6551, 6555, 71855]","['Back Bay', 'Downtown', 'Downtown', 'Downtown', 'South End']"
 505,"[6550, 6551, 6555, 16535]","['Downtown', 'Downtown', 'Downtown', 'Downtown']"
