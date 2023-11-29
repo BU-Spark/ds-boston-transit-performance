@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-delays = pd.read_csv('delays.csv')
-travel_times = pd.read_csv('travel_times.csv')
+delays = pd.read_csv('data/delays.csv')
+travel_times = pd.read_csv('data/travel_times.csv')
 
 delays['abs_delay'] = delays['delay'].abs()
 average_delay_by_route = delays.groupby('route_id')['abs_delay'].mean()
@@ -44,16 +44,57 @@ df = df.transpose()
 df_2 = pd.DataFrame.from_dict(data_2, orient='index')
 df_2 = df_2.transpose()
 
-ax = df[most_punctual_route_ids + least_punctual_route_ids].plot(kind='box', title='boxplot', showfliers=False)
+# ax = df[most_punctual_route_ids + least_punctual_route_ids].plot(kind='box', title='boxplot', showfliers=False)
+# plt.xlabel("Route ID")
+# plt.ylabel("Delay (minutes)")
+# plt.title('Punctuality for Bus Routes', fontsize=20)
+# plt.rcParams["figure.autolayout"] = True
+# plt.show()
+
+# ax2 = df_2[most_punctual_route_ids + least_punctual_route_ids].plot(kind='box', title='boxplot', showfliers=False)
+# plt.xlabel("Route ID")
+# plt.ylabel("Travel Time (minutes)")
+# plt.title('Travel Times for Bus Routes Based on Punctuality', fontsize=20)
+# plt.rcParams["figure.autolayout"] = True
+# plt.show()
+
+least_punctual_delays = df[least_punctual_route_ids]
+most_punctual_delays = df[most_punctual_route_ids]
+least_punctual_travel_times = df_2[least_punctual_route_ids]
+most_punctual_travel_times = df_2[most_punctual_route_ids]
+
+plt.figure(figsize=(10, 6))
+plt.bar(least_punctual_delays.columns, least_punctual_delays.mean().abs(), color='lightgreen')
 plt.xlabel("Route ID")
-plt.ylabel("Delay (minutes)")
-plt.title('Punctuality for Bus Routes', fontsize=20)
-plt.rcParams["figure.autolayout"] = True
+plt.ylabel("Average Absolute Delay (minutes)")
+plt.title('Average Absolute Delay for Least Punctual Bus Routes', fontsize=16)
+plt.xticks()
+plt.tight_layout()  
 plt.show()
 
-ax2 = df_2[most_punctual_route_ids + least_punctual_route_ids].plot(kind='box', title='boxplot', showfliers=False)
+plt.figure(figsize=(10, 6))
+plt.bar(most_punctual_delays.columns, most_punctual_delays.mean().abs(), color='skyblue')
 plt.xlabel("Route ID")
-plt.ylabel("Travel Time (minutes)")
-plt.title('Travel Times for Bus Routes Based on Punctuality', fontsize=20)
-plt.rcParams["figure.autolayout"] = True
+plt.ylabel("Average Absolute Delay (minutes)")
+plt.title('Average Absolute Delay for Most Punctual Bus Routes', fontsize=16)
+plt.xticks()
+plt.tight_layout()
+plt.show()
+
+plt.figure(figsize=(10, 6))
+plt.bar(least_punctual_travel_times.columns, least_punctual_travel_times.mean(), color='orange')
+plt.xlabel("Route ID")
+plt.ylabel("Average Travel Time (minutes)")
+plt.title('Average Travel Times for Least Punctual Bus Routes', fontsize=16)
+plt.xticks()
+plt.tight_layout()  
+plt.show()
+
+plt.figure(figsize=(10, 6))
+plt.bar(most_punctual_travel_times.columns, most_punctual_travel_times.mean(), color='mediumseagreen')
+plt.xlabel("Route ID")
+plt.ylabel("Average Travel Time (minutes)")
+plt.title('Average Travel Times for Most Punctual Bus Routes', fontsize=16)
+plt.xticks()
+plt.tight_layout()  
 plt.show()
