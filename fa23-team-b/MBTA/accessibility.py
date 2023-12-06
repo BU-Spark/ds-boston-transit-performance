@@ -11,6 +11,7 @@ headers = {
 route_id = "57"
 
 response = requests.get(f'{BASE_URL}stops?filter[route]={route_id}', headers=headers)
+stop_id = set()
 
 accessibility_directory = os.path.join("fa23-team-b/data", "Accessibility")
 if not os.path.exists(accessibility_directory):

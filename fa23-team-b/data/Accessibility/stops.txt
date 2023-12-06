@@ -1,0 +1,1 @@
+{'name': 'Galen St @ Maple St', 'longitude': -71.185332, 'latitude': 42.360079}
