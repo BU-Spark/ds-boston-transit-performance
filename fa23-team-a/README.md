@@ -16,10 +16,7 @@ Quick-Guide-to-Folders
 Github Repo
 Weekly-scrum-reports: 
 Folder containing scrum reports. (Primarily stored in google drive, not github)
-
-
 Deliverables Folder:
-
 Deliverable 1 Folder:
 Base questions analysis: Contains visualizations and analysis report of base questions 1 and 2.
 Base questions code: Contains code used to answer base questions 1 and 2.
@@ -36,5 +33,5 @@ Deliverable 3 Folder: (From here extension project idea has changed to address B
 “ExternalQ3.ipynb” and pdf contains code also in pdf format that teammate Tiansui used to address intensity of Bluebike usage correlation with bus performance.
 “Extension-ProjectQ1-part1.ipynb” and pdf is all code conducted by teammate Salma to explore extension project data exploration and cleaning to address part of extension proposal question about average duration and counts of Bluebike trips.
 “Extension-ProjectQ1-part2.ipynb” and pdf contains code of part1’s files continued by teammate Isaac to continue answering the same question.
-
-
+Deliverable 4 Folder:
+Contains one file of project report including all base questions answered and extension project.
