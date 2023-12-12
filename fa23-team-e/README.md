@@ -37,3 +37,7 @@ This project analyzed MBTA bus data to uncover service performance trends and di
 |   |-- weekly_scrum_6.pdf
 |-- team-info-page
 ```
+
+## To Run the Code
+
+All the instructions are noted down in `main.ipynb`. If data/datasets are missing in the GitHub repository, they can be downloaded in the shared Google Drive.
