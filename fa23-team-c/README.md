@@ -54,3 +54,6 @@ This project delves into an in-depth analysis of MBTA bus routes in Boston to as
 
 ## Conclusion
 This data-driven analysis aims to promote discussion and progress towards establishing an affordable, reliable transportation network that serves all communities equitably in Boston.
+
+## Team Information
+[Team Info Page](team-info-page)
