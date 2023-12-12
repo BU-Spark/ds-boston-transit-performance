@@ -31,7 +31,7 @@ This project delves into an in-depth analysis of MBTA bus routes in Boston to as
 9. `visualize_population.py`
 10. `visualize_punctuality.py`
 
-### Extension Project:
+### 2. Extension Project:
 #### Notebooks:
 1. `eda.ipynb`
 2. `questions.ipynb`
