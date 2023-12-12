@@ -11,7 +11,7 @@ For the extension project, we investigated the relationship between accessibilit
 
 ## How to navigate the different files in the repo
 - scrum_report: weekly reports
-- LATEST!!!Deliverable_3: contain files needed for heatmap, json generation, and interactive map.
+- Deliverable_3: contain files needed for heatmap, json generation, and interactive map.
 - ...
 
 ## Information any future users would need to have to get the code running
