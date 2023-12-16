@@ -36,4 +36,5 @@ For the extension project, we investigated the relationship between accessibilit
     https://drive.google.com/drive/folders/1EA87Ptx1WPhAnJDURf6XGj01BXKjwMsN
     redistricting_data_tract20_nbhd_hhpopsize_ab-1.csv<br>
     https://drive.google.com/drive/folders/19DA3f1Cq6ErofPZnMFoQEuBqInwizivP
+    https://youtu.be/7HQHEy1p99c
     
