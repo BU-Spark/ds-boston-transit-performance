@@ -11,4 +11,5 @@
 fa23-team-e/data/question-1/raw/*.csv
 fa23-team-e/data/*
 data/question-1/raw/*.csv
-data/*
+data/question-2/processed/*
+# data/*
