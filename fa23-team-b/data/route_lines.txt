@@ -1,0 +1,41 @@
+Route ID, Line Type, Short Name, Long Name, Description
+Red, line, , Red Line, Rapid Transit
+Mattapan, line, , Mattapan Trolley, Rapid Transit
+Orange, line, , Orange Line, Rapid Transit
+Green-B, line, B, Green Line B, Rapid Transit
+Green-C, line, C, Green Line C, Rapid Transit
+Green-D, line, D, Green Line D, Rapid Transit
+Green-E, line, E, Green Line E, Rapid Transit
+Blue, line, , Blue Line, Rapid Transit
+741, line, SL1, Logan Airport Terminals - South Station, Key Bus
+742, line, SL2, Drydock Avenue - South Station, Key Bus
+743, line, SL3, Chelsea Station - South Station, Key Bus
+751, line, SL4, Nubian Station - South Station, Key Bus
+749, line, SL5, Nubian Station - Temple Place, Key Bus
+746, line, SLW, Silver Line Way - South Station, Key Bus
+CR-Fairmount, line, , Fairmount Line, Commuter Rail
+CR-Fitchburg, line, , Fitchburg Line, Commuter Rail
+CR-Worcester, line, , Framingham/Worcester Line, Commuter Rail
+CR-Franklin, line, , Franklin/Foxboro Line, Commuter Rail
+CR-Greenbush, line, , Greenbush Line, Commuter Rail
+CR-Haverhill, line, , Haverhill Line, Commuter Rail
+Boat-EastBoston, line, , East Boston Ferry, Ferry
+Boat-Lynn, line, , Lynn Ferry, Ferry
+Boat-F6, line, , Winthrop Ferry, Ferry
+747, line, CT2, Sullivan Square Station - Ruggles Station, Local Bus
+708, line, CT3, Beth Israel Deaconess Hospital - Andrew Station, Local Bus
+1, line, 1, Harvard Square - Nubian Station, Key Bus
+4, line, 4, North Station - Tide Street, Commuter Bus
+7, line, 7, City Point - Otis Street & Summer Street, Local Bus
+8, line, 8, Harbor Point - Kenmore Station, Local Bus
+9, line, 9, City Point - Copley Square, Local Bus
+10, line, 10, City Point - Copley Square, Local Bus
+11, line, 11, City Point - Chauncy Street & Summer Street, Local Bus
+14, line, 14, Roslindale Square - Heath Street, Local Bus
+15, line, 15, Fields Corner Station or Kane Square - Ruggles Station, Key Bus
+16, line, 16, Forest Hills Station - Andrew Station or Harbor Point, Local Bus
+17, line, 17, Fields Corner Station - Andrew Station, Local Bus
+18, line, 18, Ashmont Station - Andrew Station, Local Bus
+19, line, 19, Fields Corner Station - Kenmore or Ruggles Station, Local Bus
+21, line, 21, Ashmont Station - Forest Hills Station, Local Bus
+22, line, 22, Ashmont Station - Ruggles Station via Talbot Ave, Key Bus

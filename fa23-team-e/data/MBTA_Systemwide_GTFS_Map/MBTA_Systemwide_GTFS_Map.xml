@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>GTFS MBTA Systemwide Map</title>
+                <onlink>https://gis.massdot.state.ma.us/arcgis/rest/services/Multimodal/GTFS_Systemwide/MapServer</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This map service contains layers from the stops, shapes, and facilities files from the MBTA GTFS.MassDOT/MBTA shall not be held liable for any errors in this data. This includes errors of omission, commission, errors concerning the content of the data, and relative and positional accuracy of the data. This data cannot be construed to be a legal document. Primary sources from which this data was compiled must be consulted for verification of information contained in this data.</abstract>
+            <purpose>This map service contains layers from the stops, shapes, and facilities files from the MBTA GTFS.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>GTFS; MBTA</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>CC0</useconst>
+    </idinfo>
+    <metainfo>
+        <metd>20211029</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

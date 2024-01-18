@@ -1,0 +1,233 @@
+route_shor	route_long
+90	Chelsea-Everett-Assembly-Arlington
+90	Chelsea-Everett-Assembly-Arlington
+T101	Medford-Sullivan-Kendall
+T101	Medford-Sullivan-Kendall
+T70	Waltham-Watertown-Kendall
+T70	Waltham-Watertown-Kendall
+55	Kendall-LMA
+55	Kendall-LMA
+T32	Hyde Park-Forest Hills
+T32	Hyde Park-Forest Hills
+T12	Brookline Village-LMA-Andrew-Downtown
+T12	Brookline Village-LMA-Andrew-Downtown
+T9	South Boston-Broadway-Copley
+T9	South Boston-Broadway-Copley
+T110	Wellington-Everett-Wonderland
+T110	Wellington-Everett-Wonderland
+T31	Mattapan-Forest Hills
+T31	Mattapan-Forest Hills
+T39	Porter-Central-LMA-Forest Hills
+T39	Porter-Central-LMA-Forest Hills
+T8	Harbor Point-Copley
+T8	Harbor Point-Copley
+T96	Malden-Medford-Porter
+T96	Malden-Medford-Porter
+T104	Malden-Everett-Chelsea-Wood Island
+T104	Malden-Everett-Chelsea-Wood Island
+T16	Forest Hills-Uphams-Andrew
+T16	Forest Hills-Uphams-Andrew
+T15	Oak Square-LMA-Nubian-Kane Square
+T15	Oak Square-LMA-Nubian-Kane Square
+T1	Harvard-Back Bay-Nubian
+T1	Harvard-Back Bay-Nubian
+T23	Ashmont-Nubian-Ruggles
+T23	Ashmont-Nubian-Ruggles
+T28	Mattapan-Nubian-Kenmore
+T28	Mattapan-Nubian-Kenmore
+T57	Watertown Square-Oak Square-Kenmore
+T57	Watertown Square-Oak Square-Kenmore
+T71	Watertown-Harvard
+T71	Watertown-Harvard
+T73	Waverly-Harvard
+T73	Waverly-Harvard
+T111	Woodlawn-Chelsea-Haymarket
+T111	Woodlawn-Chelsea-Haymarket
+T116	Wonderland-Chelsea-Maverick
+T116	Wonderland-Chelsea-Maverick
+T22	Ashmont-LMA
+T22	Ashmont-LMA
+T66	Harvard-Allston-Nubian
+T66	Harvard-Allston-Nubian
+105	Saugus-Malden
+105	Saugus-Malden
+133	Anderson-Woburn-Stoneham-Melrose
+133	Anderson-Woburn-Stoneham-Melrose
+350	Burlington-Arlington-Alewife
+350	Burlington-Arlington-Alewife
+76	Lexington-Alewife
+76	Lexington-Alewife
+87	Turkey Hill-Arlington-Medford-Tufts-Sullivan
+87	Turkey Hill-Arlington-Medford-Tufts-Sullivan
+59	Needham Junction-Newton Highlands-Watertown Square
+59	Needham Junction-Newton Highlands-Watertown Square
+60	Newton Common-Chestnut Hill-Brookline Village-Fenway
+60	Newton Common-Chestnut Hill-Brookline Village-Fenway
+19	Fields Corner-Franklin Park-Ruggles
+19	Fields Corner-Franklin Park-Ruggles
+230	Montello-Holbrook-Braintree
+230	Montello-Holbrook-Braintree
+225	Quincy Center-Quincy Ave-Weymouth Landing
+225	Quincy Center-Quincy Ave-Weymouth Landing
+238	Holbrook/Randolph-Quincy Adams
+238	Holbrook/Randolph-Quincy Adams
+245	Quincy-Milton-Mattapan
+245	Quincy-Milton-Mattapan
+451	Beverly
+451	Beverly
+442	Marblehead-Swampscott-Wonderland
+442	Marblehead-Swampscott-Wonderland
+436	Liberty Tree Mall-Lynnfield-Lynn
+436	Liberty Tree Mall-Lynnfield-Lynn
+435	Salem Depot-Peabody-Lynn
+435	Salem Depot-Peabody-Lynn
+426	Lynn-Saugus-Wonderland
+426	Lynn-Saugus-Wonderland
+429	Lynnfield-Lynn
+429	Lynnfield-Lynn
+52	Charles River Loop-Newton Center-Watertown
+52	Charles River Loop-Newton Center-Watertown
+14	Cleary Sq-American Legion Hwy-Nubian
+14	Cleary Sq-American Legion Hwy-Nubian
+36	Dedham Mall-VA Hospital-Forest Hills
+36	Dedham Mall-VA Hospital-Forest Hills
+35	Dedham Mall-Centre St-Forest Hills
+35	Dedham Mall-Centre St-Forest Hills
+455	Salem-Swampscott-Wonderland
+455	Salem-Swampscott-Wonderland
+30	Mattapan-Forest Hills
+30	Mattapan-Forest Hills
+210	Quincy-North Quincy-Ashmont
+210	Quincy-North Quincy-Ashmont
+236	Braintree-Quincy
+236	Braintree-Quincy
+11	South Boston-Broadway
+11	South Boston-Broadway
+61	Waltham-Watertown
+61	Waltham-Watertown
+54	Arlington-Waltham-Riverside
+54	Arlington-Waltham-Riverside
+217	Quincy-Milton-Ashmont
+217	Quincy-Milton-Ashmont
+225	variant
+225	variant
+504	Watertown-Downtown
+504	Watertown-Downtown
+501	Brighton-Downtown
+501	Brighton-Downtown
+24	Dedham Mall-Hyde Park-Mattapan-Ashmont
+24	Dedham Mall-Hyde Park-Mattapan-Ashmont
+21	Ashmont-Forest Hills
+21	Ashmont-Forest Hills
+42	Forest Hills-Nubian-Broadway
+42	Forest Hills-Nubian-Broadway
+215	Quincy Center-East Milton-Fields Corner
+215	Quincy Center-East Milton-Fields Corner
+26	Mattapan-Fields Corner
+26	Mattapan-Fields Corner
+95	Arlington-Medford-Wellington
+95	Arlington-Medford-Wellington
+120	Winthrop-Maverick
+120	Winthrop-Maverick
+119	Winthrop-Revere
+119	Winthrop-Revere
+106	Lebanon Loop-Wellington
+106	Lebanon Loop-Wellington
+137	Reading-Wakefield-Malden
+137	Reading-Wakefield-Malden
+100	Medford-Fellsway-Wellington
+100	Medford-Fellsway-Wellington
+94	Burlington-Woburn-Winchester-Davis
+94	Burlington-Woburn-Winchester-Davis
+83	Rindge-Porter-Inman-Kendall
+83	Rindge-Porter-Inman-Kendall
+34E	Walpole-Dedham-Forest Hills
+34E	Walpole-Dedham-Forest Hills
+216	Houghs Neck-Quincy
+216	Houghs Neck-Quincy
+237	South Shore Plaza-Quincy
+237	South Shore Plaza-Quincy
+43	Ruggles-Park Street
+43	Ruggles-Park Street
+714	Hull-Hingham
+714	Hull-Hingham
+716	Cobbs Corner-Canton-Mattapan
+716	Cobbs Corner-Canton-Mattapan
+450	Salem-Lynn-Wonderland
+450	Salem-Lynn-Wonderland
+439	Nahant-Lynn
+439	Nahant-Lynn
+131	Melrose-Saugus-Lynn
+131	Melrose-Saugus-Lynn
+51	Reservoir-Bellevue-Forest Hills
+51	Reservoir-Bellevue-Forest Hills
+34	Legacy Place-Forest Hills
+34	Legacy Place-Forest Hills
+50	Readville-Fairmount-Hyde Park-Forest Hills
+50	Readville-Fairmount-Hyde Park-Forest Hills
+40	Readville-Germantown-West Roxbury-Forest Hills
+40	Readville-Germantown-West Roxbury-Forest Hills
+220	Hingham Depot-Quincy
+220	Hingham Depot-Quincy
+211	Squantum-North Quincy-Quincy
+211	Squantum-North Quincy-Quincy
+132	Stoneham-Malden
+132	Stoneham-Malden
+53	Waltham-Brandeis-Riverside
+53	Waltham-Brandeis-Riverside
+18	Ashmont-JFK/UMass
+18	Ashmont-JFK/UMass
+20	Ashmont-Field's Corner
+20	Ashmont-Field's Corner
+29	Ashmont-Franklin Field
+29	Ashmont-Franklin Field
+10	South Boston-Andrew-Ruggles
+10	South Boston-Andrew-Ruggles
+222	Lovell Corners-Quincy Center
+222	Lovell Corners-Quincy Center
+226	Columbian Square-Braintree
+226	Columbian Square-Braintree
+240	Avon-Randolph-Milton-Ashmont
+240	Avon-Randolph-Milton-Ashmont
+108	Malden Center-Kennedy Drive
+108	Malden Center-Kennedy Drive
+62	Bedford-Lexington-Alewife
+62	Bedford-Lexington-Alewife
+69	Harvard-Lechmere
+69	Harvard-Lechmere
+70	variant
+70	variant
+351	Burlington Peak
+351	Burlington Peak
+SL4/SL5	Nubian-South Station
+SL4/SL5	Nubian-South Station
+64	Oak Square-Kendall/MIT
+64	Oak Square-Kendall/MIT
+505	Waltham-Watertown-Downtown
+505	Waltham-Watertown-Downtown
+68	Harvard-Kendall/MIT
+68	Harvard-Kendall/MIT
+T7	Sullivan-Charlestown-South Boston
+T7	Sullivan-Charlestown-South Boston
+SLW	Design Center - South Station
+SLW	Design Center - South Station
+112	Admiral's Hill-Quigley Hospital
+112	Admiral's Hill-Quigley Hospital
+SL1	Logan Airport-South Station
+SL1	Logan Airport-South Station
+SL3	Chelsea-South Station
+SL3	Chelsea-South Station
+38	West Roxbury-Nubian
+38	West Roxbury-Nubian
+75	Belmont-Harvard
+75	Belmont-Harvard
+78	Arlmont Village-Harvard
+78	Arlmont Village-Harvard
+T77	Arlington-Porter-Harvard
+T77	Arlington-Porter-Harvard
+T109	Everett-Sullivan-Harvard
+T109	Everett-Sullivan-Harvard
+86	Reservoir-Allston-Harvard
+86	Reservoir-Allston-Harvard
+99	Melrose-Malden-Wellington
+99	Melrose-Malden-Wellington
