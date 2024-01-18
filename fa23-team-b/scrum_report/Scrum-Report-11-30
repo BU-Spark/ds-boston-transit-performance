@@ -1,0 +1,17 @@
+SCRUM REPORT 11/30
+BOSTON TRANSIT PERFORMANCE TEAM B
+
+WHAT HAVE WE WORKED ON?
+We have started our extension project — we made a list of questions we want to answer and have started aggregating and cleaning data for that.
+We have created a system for calculating a custom accessibility score for stations and are working on connection that score to neighborhood census data.
+
+WHAT WILL WE BE WORKING ON NEXT?
+We will be analyzing accessibility scores of stations and connecting that to census data. We want to use an ML model for this.
+We will also be drawing conclusions about likely future improvements on station accessibility. Kevin and Suin will be working on aggregating census
+data and finding trends between station accessbility and demographic data, while Vishva, Yu and Yufeng will be focused calculating and cleaning
+the accessibility data and making sure we have consistent information.
+
+HAVE WE RUN INTO ANY ISSUES? DO WE NEED HELP?
+We are having trouble figuring out how to use an ML model to answer any of our questions. We only have accessibility data from 2 consecutive years,
+which doesn't allow for linear regression (which would require at least 7-10 years of accessibility history) so we're working on figuring out another
+way to integrate ML into our project. We asked for help during lab but still are struggling to figure out how to integrate ML.

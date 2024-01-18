@@ -1,0 +1,32 @@
+What is the project focus/overall goal?
+Our project is to develop a report based on public data provided to us and analyze MBTA bus data. We will gather data and provide analysis on how bus routes differ with end-to-end travel times and to figure out if disparities exist in the service levels of different routes based on factors of race, ethnicity, age, and people with disabilities/ vulnerabilities. 
+
+Why is this project important?
+This project holds significance as it will offer valuable insights into potential discrepancies based on neighborhood and various demographic factors.
+
+What type of data will you collect or be analyzing?
+We will be collecting as much relevant data to the bus routes as possible, including but not limited to end-to-end route travel times, average distance between stops, punctuality data (aggregated by route), and ridership data. We are also interested in comparing ridership & efficiency data with demographic data surrounding each route’s set of stops to learn more about connections between neighborhood information (population, density, race, economic class, etc) and bus ridership & route efficiency. All of this will be quantitative data so as to better practice DS techniques learned in class. This data will be sourced from the MBTA as well as the Boston census.
+
+We will collect data such as:
+1. alerts 
+2. facilities (elevators, escalators, and (coming soon) parking lots, bike racks, etc.
+3. predictions - predicted arrival/departure times
+4. routes
+5. schedules - scheduled arrival/departure times (stop_time)
+6. shapes - stops and maps for branches, including route variations
+7. stops
+8. trips
+9. vehicles - vehicle positions
+
+
+What are potential limitations of the project?
+We may face the following challenges. To make sure we get the full picture, we may need to  data for more recent data. Then to tackle the issue of time and place, bus services can change depending on the hour, day, or season. Even if we notice certain areas or groups facing more bus delays, it's tricky to say exactly why that is. It could be because of road works, events, or even the specific needs of that bus route. We must be careful not to make conclusions recklessly.
+
+
+What are your next steps? Divide tasks amongst the team
+
+Suin - Answer some questions from base project
+Yu - Explore different data fields within transit data and how they are related to each other
+Kevin - Collect and pre-process a preliminary batch of data (check format of data as well)
+Yufeng - Look into demographic data and link them to the existings bus routes
+Vishva - Perform a preliminary analysis of the data (possibly create charts/graphs for initial analysis) (Team Lead)
